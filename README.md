@@ -1,4 +1,4 @@
-College Event Management Website
+#College Event Management Website <br>
 This is a College Event Management Website built using React. It allows users to view upcoming events, register for events, and get detailed information about each event, including schedules, speakers, and venue details.
 
 Features
